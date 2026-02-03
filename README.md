@@ -144,7 +144,7 @@ GitHub: [@vinitavictushvi](https://github.com/vinitavictushvi)
 # Official Organization
 
 Victushvi AI Systems  
-Official GitHub: [@victushvi-aios](https://github.com/victushvi-aios)
+Official GitHub: [@victushvi-aios](https://github.com/victushvi)
 
 All core AI research, development, and releases are managed under the Victushvi AI Systems organization.
 
