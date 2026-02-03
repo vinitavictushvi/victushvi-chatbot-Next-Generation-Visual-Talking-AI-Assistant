@@ -15,7 +15,6 @@ Unlike traditional chatbots that only provide text responses, Victushvi AI combi
 
 to help users truly understand concepts.
 
-Built to support 500,000+ users at scale.
 
 ---
 
@@ -108,7 +107,7 @@ Media: FFmpeg
 # Scalability
 
 Designed for:
-- 500K+ concurrent learners
+
 - Cloud deployment
 - Microservices architecture
 - Real-time streaming
